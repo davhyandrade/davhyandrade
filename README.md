@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/davhyandrade">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davhyandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-   <p>Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
-Sou Desenvolvedor Web focado em NextJS e Typescript</p>
+Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
+   
+- Desenvolvedor Web focado em NextJS e Typescript</p>
   
 ##
 
