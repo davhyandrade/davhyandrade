@@ -1,11 +1,14 @@
 ## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
-<div width="100%" align="center">
+<div align="center">
   <a href="https://github.com/davhyandrade">
-  <img width="60%" height="160em" src="https://github-readme-stats.vercel.app/api?username=davhyandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davhyandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+   <p>Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
+Sou Desenvolvedor Web focado em NextJS e Typescript</p>
+  
 ##
 
 <div style="display: inline_block"><br>
