@@ -1,13 +1,16 @@
 ## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
-<div align="center">
+Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
+   
+> Desenvolvedor Web focado em NextJS e Typescript
+
+> Técnico em Desenvolvimento de Sistemas
+
+#
+<div align="left">
   <a href="https://github.com/davhyandrade">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
-   
-- Desenvolvedor Web focado em NextJS e Typescript</p>
   
 ##
 
