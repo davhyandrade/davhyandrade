@@ -6,10 +6,17 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 > Técnico em Desenvolvimento de Sistemas
 
-<br>
-<a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+> Designer Digital com experiência de freelancers
+
+<div>
+   <br>
+   <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <br>
+   <br>
+   <a href="https://www.davhyandrade.com.br" target="_blank" value='joi'><img value='joi' src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
+</div>
 
 ##
 
