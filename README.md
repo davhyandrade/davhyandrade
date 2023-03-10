@@ -17,6 +17,9 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 ##
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 <div align="center">
   <a href="https://github.com/davhyandrade">
