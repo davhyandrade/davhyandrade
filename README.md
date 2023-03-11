@@ -17,11 +17,12 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 ##
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br>
-<div align="center">
+<div>
+
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+
   <a href="https://github.com/davhyandrade">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
