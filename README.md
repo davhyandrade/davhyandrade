@@ -23,8 +23,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    <!--START_SECTION:waka-->
    <!--END_SECTION:waka-->
    
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=davhyandrade&layout=compact&&theme=default&link="https://www.github.com/davhyandrade/") 
-   
   <a href="https://github.com/davhyandrade">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
