@@ -35,12 +35,12 @@ Blade Template   0 secs          -------------------------   00.08 %
    ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade)
    <div align="center">
       <br>
-      <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-      <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://api.whatsapp.com/send?phone=5511934643395" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-      <a href="https://www.davhyandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+      <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+      <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://api.whatsapp.com/send?phone=5511934643395" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+      <a href="https://www.davhyandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/website-161b22?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
       <br>
       <br>
    </div>
