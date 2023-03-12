@@ -1,8 +1,5 @@
 ## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
-   <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
-
-
 Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
    
 > Desenvolvedor Web focado em NextJS e Typescript
@@ -11,7 +8,9 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 > Designer Digital com experiência de freelancers
 
-<div>
+<img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
+
+<div align="center">
    <br>
    <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
