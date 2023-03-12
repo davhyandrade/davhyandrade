@@ -10,18 +10,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
 
-   <div align="center">
-      <br>
-      <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-      <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://api.whatsapp.com/send?phone=5511934643395" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-      <a href="https://www.davhyandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/website-161b22?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-      <br>
-      <br>
-   </div>
-   
 <br>
 
 <!--START_SECTION:waka-->
@@ -43,6 +31,17 @@ Blade Template   0 secs          -------------------------   00.08 %
 
 <div align="center"> 
    <br>
-      
-   ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade)
+      <div align="center">
+      <br>
+      <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+      <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://api.whatsapp.com/send?phone=5511934643395" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+      <a href="https://www.davhyandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/website-161b22?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+      <br>
+      <br>
+   </div>
+     
+   ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade&left_color=black)
 </div>
