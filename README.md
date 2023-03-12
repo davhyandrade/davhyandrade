@@ -10,7 +10,7 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
 
-<div align="">
+<div align="center">
    <br>
    <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
