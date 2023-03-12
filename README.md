@@ -19,7 +19,7 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 
 <br>
 
-   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 From: 10 March 2023 - To: 12 March 2023
