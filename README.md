@@ -27,8 +27,6 @@ Blade Template   0 secs          -------------------------   00.08 %
 
 <!--END_SECTION:waka-->
 
-##
-
 <div align="center"> 
    <br>
       <div align="center">
@@ -43,5 +41,5 @@ Blade Template   0 secs          -------------------------   00.08 %
       <br>
    </div>
      
-   ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade&left_color=black)
+   ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade&left_color=transparent&right_color=transparent)
 </div>
