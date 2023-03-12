@@ -18,7 +18,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 ##
 
 <br>
-<div>
 
    <!--START_SECTION:waka-->
 
@@ -35,6 +34,9 @@ Blade Template   0 secs          -------------------------   00.08 %
 
 <!--END_SECTION:waka-->
    
+![dino-non-birthday-version-0](https://user-images.githubusercontent.com/109045257/224523971-a6226a58-f941-4d70-acda-ad640f37ee56.gif)
+
+<div>
   <a href="https://github.com/davhyandrade">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
