@@ -15,6 +15,10 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![dino2-unscreen](https://user-images.githubusercontent.com/109045257/224548386-5cd8a921-e43f-4f27-86b1-bdaee0fabe8c.gif)
+
+<img width="100%" height="200px" src="https://i.postimg.cc/nr0h85Bq/dino.gif" />
+
 ##
 
 <br>
