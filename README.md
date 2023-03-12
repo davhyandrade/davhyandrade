@@ -23,10 +23,14 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    <!--START_SECTION:waka-->
 
 ```text
-TypeScript       55 mins         ██████████████████░░░░░░░   71.45 %
-JSON             17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Git Config       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+From: 10 March 2023 - To: 12 March 2023
+
+Total Time: 1 hr 17 mins
+
+TypeScript       55 mins         >>>>>>>>>>>>>>>>>>-------   71.45 %
+JSON             17 mins         >>>>>>-------------------   22.64 %
+Git Config       4 mins          >------------------------   05.84 %
+Blade Template   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
