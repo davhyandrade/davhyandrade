@@ -32,7 +32,6 @@ Blade Template   0 secs          -------------------------   00.08 %
 <div align="center"> 
    
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
 </div>
 
 ##
@@ -41,7 +40,6 @@ Blade Template   0 secs          -------------------------   00.08 %
    <br>
       
    ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade)
-   
    <div align="center">
       <br>
       <a href="https://github.com/davhyandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
