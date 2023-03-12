@@ -23,4 +23,5 @@ jobs:
           LANG_COUNT: 10
           SHOW_PROJECTS: true
           SHOW_LANGUAGE_PER_REPO: true
+          SHOW_TOTAL: true
           
