@@ -2,6 +2,8 @@
 
 Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
    
+   <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
+
 > Desenvolvedor Web focado em NextJS e Typescript
 
 > Técnico em Desenvolvimento de Sistemas
@@ -14,10 +16,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    <a href = "mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![dino2-unscreen](https://user-images.githubusercontent.com/109045257/224548386-5cd8a921-e43f-4f27-86b1-bdaee0fabe8c.gif)
-
-<img width="100%" height="200px" src="https://i.postimg.cc/nr0h85Bq/dino.gif" />
 
 ##
 
@@ -38,13 +36,6 @@ Blade Template   0 secs          -------------------------   00.08 %
 
 <!--END_SECTION:waka-->
    
-![dino-non-birthday-version-0](https://user-images.githubusercontent.com/109045257/224523971-a6226a58-f941-4d70-acda-ad640f37ee56.gif)
-
-<div>
-  <a href="https://github.com/davhyandrade">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhyandrade&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 ##
 
 <div align="center"> 
