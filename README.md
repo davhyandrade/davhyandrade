@@ -1,5 +1,8 @@
 ## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
+   <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
+
+
 Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
    
 > Desenvolvedor Web focado em NextJS e Typescript
@@ -7,8 +10,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 > Técnico em Desenvolvimento de Sistemas
 
 > Designer Digital com experiência de freelancers
-
-   <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
 
 <div>
    <br>
