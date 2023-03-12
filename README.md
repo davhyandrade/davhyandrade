@@ -23,8 +23,10 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    <!--START_SECTION:waka-->
 
 ```text
-TypeScript       3 mins          ████████████████████████▓   98.51 %
-Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript       55 mins         ██████████████████░░░░░░░   71.45 %
+JSON             17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Git Config       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
