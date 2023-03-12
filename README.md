@@ -26,13 +26,6 @@ Blade Template   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
-   
-##
-
-<div align="center"> 
-   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ##
 
