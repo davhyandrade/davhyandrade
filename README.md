@@ -15,19 +15,19 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 29 March 2023
+From: 10 March 2023 - To: 30 March 2023
 
-Total Time: 21 hrs 44 mins
+Total Time: 23 hrs 16 mins
 
-SCSS             10 hrs 53 mins  >>>>>>>>>>>>>------------   50.12 %
-TypeScript       9 hrs 52 mins   >>>>>>>>>>>--------------   45.45 %
-JSON             20 mins         -------------------------   01.57 %
-XML              12 mins         -------------------------   00.95 %
-JavaScript       10 mins         -------------------------   00.79 %
-TSConfig         8 mins          -------------------------   00.68 %
-Git Config       4 mins          -------------------------   00.35 %
+SCSS             11 hrs 49 mins  >>>>>>>>>>>>>------------   50.81 %
+TypeScript       10 hrs 24 mins  >>>>>>>>>>>--------------   44.69 %
+JSON             20 mins         -------------------------   01.47 %
+XML              17 mins         -------------------------   01.25 %
+JavaScript       10 mins         -------------------------   00.74 %
+TSConfig         8 mins          -------------------------   00.64 %
+Git Config       4 mins          -------------------------   00.33 %
 CSS              0 secs          -------------------------   00.03 %
-Other            0 secs          -------------------------   00.03 %
+Other            0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
