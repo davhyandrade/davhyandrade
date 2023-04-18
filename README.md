@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=672e64&size=15&center=true&vCenter=true&width=1000&lines=DESENVOLVEDOR+WEB;DESIGNER+DIGITAL)](https://git.io/typing-svg)
+
 ## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
 
 Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
@@ -7,10 +9,6 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 > Técnico em Desenvolvimento de Sistemas
 
 > Designer Digital com experiência de freelancers
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=672e64&size=15&center=true&vCenter=true&width=1000&lines=DESENVOLVEDOR+WEB;DESIGNER+DIGITAL)](https://git.io/typing-svg)
 
 <img width="100%" height="200px" src="https://i.postimg.cc/mZXw5mwb/oie-1216815k4a-Uyv-MR.gif" />
 
