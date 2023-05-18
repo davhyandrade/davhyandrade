@@ -4,7 +4,7 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
    
 > Desenvolvedor Web focado em NextJS e Typescript
 
-> Técnico em Desenvolvimento de Sistemas
+> Curso Técnico em Desenvolvimento de Sistemas
 
 > Designer Digital com experiência de freelancers
 
