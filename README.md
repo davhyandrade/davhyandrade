@@ -15,7 +15,7 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2023 - To: 22 June 2023
+From: 10 March 2023 - To: 23 June 2023
 
 Total Time: 85 hrs 20 mins
 
