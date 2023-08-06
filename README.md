@@ -48,6 +48,6 @@ Bash             1 hr 9 mins     -------------------------   00.70 %
       <br>
       <br>
    </div>
-     
-   ![](https://visitor-badge.glitch.me/badge?page_id=davhyandrade&left_color=transparent&right_color=transparent)
+   
+   ![fa](https://vbr.wocr.tk/badge?page_id=davhyandrade&text=Profile_views&lcolor=161b22&color=181e26&style=flat-square)
 </div>
