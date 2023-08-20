@@ -15,15 +15,15 @@ Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver pr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2023 - To: 19 August 2023
+From: 10 March 2023 - To: 20 August 2023
 
-Total Time: 197 hrs 26 mins
+Total Time: 197 hrs 28 mins
 
-TypeScript       103 hrs 5 mins  >>>>>>>>>>>>>------------   52.21 %
-SCSS             71 hrs 43 mins  >>>>>>>>>----------------   36.33 %
+TypeScript       103 hrs 5 mins  >>>>>>>>>>>>>------------   52.20 %
+SCSS             71 hrs 43 mins  >>>>>>>>>----------------   36.32 %
 HTML             4 hrs 17 mins   >------------------------   02.17 %
 Blade Template   3 hrs 21 mins   -------------------------   01.70 %
-SQL              2 hrs 34 mins   -------------------------   01.30 %
+SQL              2 hrs 36 mins   -------------------------   01.32 %
 JavaScript       2 hrs 31 mins   -------------------------   01.28 %
 JSON             1 hr 53 mins    -------------------------   00.96 %
 CSS              1 hr 30 mins    -------------------------   00.76 %
