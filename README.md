@@ -1,4 +1,4 @@
-## Davhy Andrade
+# Davhy Andrade
 
 Designer Digital e Desenvolvedor Web! Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
    
