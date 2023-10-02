@@ -1,6 +1,6 @@
-## Eae, sou Davhy Andrade, Designer Digital e Desenvolvedor Web!
+## Davhy Andrade
 
-Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
+Designer Digital e Desenvolvedor Web! Entusiasta da tecnologia, fissurado pela sensação de desenvolver e resolver problemas. 
    
 > Desenvolvedor Web focado em NextJS e Typescript
 
