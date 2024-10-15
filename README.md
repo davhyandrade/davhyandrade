@@ -46,6 +46,4 @@ CSS              2 hrs 49 mins   -------------------------   00.54 %
       <br>
       <br>
    </div>
-   
-   ![fa](https://vbr.wocr.tk/badge?page_id=davhyandrade&text=Profile_views&lcolor=161b22&color=181e26&style=flat-square)
 </div>
