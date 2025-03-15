@@ -13,18 +13,18 @@ Designer Digital e Desenvolvedor Web! Entusiasta da tecnologia, fissurado pela s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2023 - To: 14 March 2025
+From: 10 March 2023 - To: 15 March 2025
 
-Total Time: 974 hrs 39 mins
+Total Time: 976 hrs 24 mins
 
-TypeScript       388 hrs 7 mins  >>>>>>>>>>---------------   39.82 %
-JavaScript       319 hrs 23 mins >>>>>>>>-----------------   32.77 %
-SCSS             178 hrs 51 mins >>>>>--------------------   18.35 %
+TypeScript       388 hrs 7 mins  >>>>>>>>>>---------------   39.75 %
+JavaScript       320 hrs 56 mins >>>>>>>>-----------------   32.87 %
+SCSS             178 hrs 51 mins >>>>>--------------------   18.32 %
 HTML             30 hrs 54 mins  >------------------------   03.17 %
-JSON             14 hrs 15 mins  -------------------------   01.46 %
+JSON             14 hrs 18 mins  -------------------------   01.47 %
 Other            7 hrs 29 mins   -------------------------   00.77 %
 Bash             6 hrs 44 mins   -------------------------   00.69 %
-CSS              4 hrs 14 mins   -------------------------   00.44 %
+CSS              4 hrs 23 mins   -------------------------   00.45 %
 Python           3 hrs 42 mins   -------------------------   00.38 %
 Blade Template   3 hrs 26 mins   -------------------------   00.35 %
 ```
