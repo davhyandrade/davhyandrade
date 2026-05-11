@@ -13,7 +13,7 @@ Designer Digital e Desenvolvedor Web! Entusiasta da tecnologia, fissurado pela s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2023 - To: 10 May 2026
+From: 10 March 2023 - To: 11 May 2026
 
 Total Time: 1,918 hrs 33 mins
 
