@@ -37,7 +37,6 @@ GraphQL              5 hrs                 -------------------------   00.24 %
    <br>
       <div align="center">
       <br>
-      <a href="https://instagram.com/_davhy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="mailto:davhydesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://linkedin.com/in/davhy-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://davhyandrade.com.br" target="_blank"><img src="https://img.shields.io/badge/portfólio-161b22?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
